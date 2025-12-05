@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Gangadhar 👋
 
-<!--
-**gangadhargangu6677-maker/gangadhargangu6677-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 About Me
+- 📈 Data Analyst passionate about turning raw data into actionable insights
+- 🌱 Currently learning advanced Machine Learning & Cloud Data Warehousing
+- 🔧 Skilled in data cleaning, visualization, and statistical analysis
+- 🎯 Interested in business intelligence, predictive analytics, and open-source contributions
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
+- **Languages:** Python (Pandas, NumPy), R, SQL
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Data Engineering:** Excel, ETL pipelines, BigQuery
+- **Other Skills:** Statistical Modeling, Hypothesis Testing, A/B Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+- 💼 https://www.linkedin.com/in/gangadhar-s-486377168/
+- 📧 gangadhargangu6677@email.com
+
+
+---
+⭐️ From [Gangadhar](https://github.com/Gangadhar)
